@@ -1,13 +1,13 @@
 {
   "name": "rn-icons-generator",
   "version": "1.0.0",
-  "description": "Generate react native android icons",
+  "description": "Generate android icons",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "rn-icon": "./index.js"
+    "android-icon": "./index.js"
   },
   "keywords": [
     "icons",
