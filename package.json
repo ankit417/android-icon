@@ -1,6 +1,6 @@
 {
   "name": "android-icons-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate android icons",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "bin": {
     "android-icon": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ankit417/android-icon"
   },
   "keywords": [
     "icons",
