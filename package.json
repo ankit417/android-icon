@@ -1,5 +1,5 @@
 {
-  "name": "android-icons",
+  "name": "android-icons-generator",
   "version": "1.0.0",
   "description": "Generate android icons",
   "main": "index.js",
