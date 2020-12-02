@@ -1,0 +1,26 @@
+{
+  "name": "rn-icons-generator",
+  "version": "1.0.0",
+  "description": "Generate react native android icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rn-icon": "./index.js"
+  },
+  "keywords": [
+    "icons",
+    "react-native",
+    "rn",
+    "icons-generate",
+    "generator",
+    "app",
+    "android"
+  ],
+  "author": "Ankit Acharya",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
